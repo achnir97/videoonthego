@@ -1,0 +1,13 @@
+
+.nav-list{
+    display:flex;
+    justify-content:center;
+    gap:2rem;
+    
+}
+.nav-list a {
+    text-decoration: none;
+  }
+.nav-list a:hover{
+    color:blue
+}
